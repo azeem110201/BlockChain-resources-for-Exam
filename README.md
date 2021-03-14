@@ -83,7 +83,7 @@
    ---
    *NOTE*
 
-   ##### The above playlist does not contain all the topics which are mention in the syllabus, but is a good playlist ##### to kick start your learning
+   ##### The above playlist does not contain all the topics which are mention in the syllabus, but is a good playlist to kick start your learning
    ---   
 
 
@@ -96,7 +96,7 @@
 ---
 *NOTE*
 
-##### More Links will be added to this README file as I move on 
-##### Till then you can follow PDF's given in this repo by Shri Rajesham Sir.
+##### More Links will be added to this README file as I move on. Till then you can follow PDF's given in this repo by Shri Rajesham Sir.
+
 ##### You can also add the links to this repo
 ---    
