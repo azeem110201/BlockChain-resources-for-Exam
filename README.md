@@ -49,7 +49,7 @@
    ---
    *NOTE*
 
-   The above playlist does'nt contain all the topics which are mention in the syllabus, but is a good playlist to kick start your learning
+   The above playlist does not contain all the topics which are mention in the syllabus, but is a good playlist to kick start your learning
    ---   
 
 ## channels to follow 
