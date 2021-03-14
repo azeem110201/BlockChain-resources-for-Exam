@@ -44,19 +44,21 @@
 
 
 
-## playlis to follow for blockchain
+## playlist to follow for blockchain
    [Blockchain YT](https://www.youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-)
    ---
-   **NOTE**
+   *NOTE*
+
    The above playlist does'nt contain all the topics which are mention in the syllabus, but is a good playlist to kick start your learning
    ---   
 
 ## channels to follow 
-   [Bitcoin99](https://www.youtube.com/channel/UCQQ_fGcMDxlKre3SEqEWrLA)   
+   #### [Bitcoin99](https://www.youtube.com/channel/UCQQ_fGcMDxlKre3SEqEWrLA)   
 
 
 ---
-**NOTE**
+*NOTE*
+
 More Links will be added to this README file as I move on 
 Till then you can follow PDF's given in this repo by Shri Rajesham Sir.
 You can also add the links to this repo
