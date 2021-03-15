@@ -91,6 +91,10 @@
 
    #### [Bitcoin99](https://www.youtube.com/channel/UCQQ_fGcMDxlKre3SEqEWrLA)   
 
+## Javatpoint
+   #### [Javatpoint](https://www.javatpoint.com/blockchain-tutorial)   
+   #### If you just want to pass the exam, then study this
+
 
 
 ---
