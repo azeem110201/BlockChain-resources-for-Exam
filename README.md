@@ -23,6 +23,8 @@
 
 ## UNIT-2
    [What is Blockchain and Bitcoin](https://www.investopedia.com/terms/b/blockchain.asp)
+   
+   [Whaht does a Bitcoin block consists of?](https://support.blockchain.com/hc/en-us/articles/213276463-Bitcoin-Glossary)
 
    [Advantages of Distributed Database](https://www.geeksforgeeks.org/advantages-of-distributed-database/)
 
