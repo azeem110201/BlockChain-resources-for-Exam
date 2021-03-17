@@ -107,8 +107,8 @@
 ##### You can also add the links to this repo
 ---    
 
+## Hurry
 
+   **[You can find all the notes for the all your V SEM subjects here](https://drive.google.com/drive/folders/1EEKJtzzQSRQBr9AhywKwZQ8dfRHBDgQD)** 
 
-**[You can find all the notes for the all your V SEM subjects here](https://drive.google.com/drive/folders/1EEKJtzzQSRQBr9AhywKwZQ8dfRHBDgQD)** 
-
-##### credits to the creator
+   ##### credits to the creator
