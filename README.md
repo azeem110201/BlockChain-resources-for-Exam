@@ -28,7 +28,9 @@
 
    [Advantages of Distributed Database](https://www.geeksforgeeks.org/advantages-of-distributed-database/)
 
-   [Mining Mechanism](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/)
+   [Mining Mechanism](https://intellipaat.com/blog/tutorial/blockchain-tutorial/what-is-bitcoin-mining/)
+
+   [Mining Mechanism(Optional)](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/)
 
    [Merkle's Tree](https://www.investopedia.com/terms/m/merkle-tree.asp)
 
