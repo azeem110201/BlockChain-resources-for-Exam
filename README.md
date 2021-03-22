@@ -18,6 +18,10 @@
 
    [Public and Private key(Optional)](https://medium.com/coinmonks/blockchain-public-private-key-cryptography-in-a-nutshell-b7776e475e7c)
 
+   [Zero knowledge proof YT Video](https://www.youtube.com/watch?v=vXfzbsH9HFw)
+
+   [Zero knowledge proof](https://www.geeksforgeeks.org/zero-knowledge-proof/)
+
 
 
 
