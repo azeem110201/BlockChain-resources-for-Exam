@@ -78,10 +78,30 @@
 
 
 ## UNIT-4
+   
+   [Bitcoin Protocols](https://en.wikipedia.org/wiki/Bitcoin_network)
+
    [Distributed Ledger](https://www.investopedia.com/terms/d/distributed-ledgers.asp#:~:text=A%20distributed%20ledger%20is%20a,to%20have%20public%20%22witnesses%22.)
 
    [Distributed Ledger Technology](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp)
 
+   [What is Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+
+   [Ethereum White Paper(Optional)](https://ethereum.org/en/whitepaper)
+
+   [What is Ethereum YT Video](https://www.youtube.com/watch?v=jxLkbJozKbY)
+
+   [DAO](https://en.wikipedia.org/wiki/The_DAO_(organization))
+
+   [Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract)
+
+   [Smart Contracts YT Video](https://www.youtube.com/watch?v=pWGLtjG-F5c)
+
+   [GHOST](https://ethereum.org/en/whitepaper/#modified-ghost-implementation)
+
+   [Side-Chain](https://coinmarketcap.com/alexandria/glossary/side-chain)
+
+   [Namecoin](https://www.investopedia.com/terms/n/namecoin.asp)
 
 
 
