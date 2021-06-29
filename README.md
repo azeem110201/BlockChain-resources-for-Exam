@@ -69,6 +69,8 @@
    [Proof of Work(PoW)](https://www.investopedia.com/terms/p/proof-work.asp)
 
    [Proof of Stack(PoS)](https://www.investopedia.com/terms/p/proof-stake-pos.asp)
+   
+   [Proof of Burn](https://www.investopedia.com/terms/p/proof-burn-cryptocurrency.asp)
 
    [Difficulty Level](https://www.investopedia.com/terms/d/difficulty-cryptocurrencies.asp)
 
