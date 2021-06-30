@@ -115,6 +115,78 @@
    ---   
 
 
+## Individual Youtube Vids :
+   [Wt is BLockchain](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it)
+   
+   [BlockChain as Distributed DB](https://www.youtube.com/watch?v=gPQpr1BxTgc)
+   
+   [Two General Problem](https://www.youtube.com/watch?v=IP-rGJKSZ3s)
+   
+   [Byzantine Generals](https://www.youtube.com/watch?v=dfsRQyYXOsQ)
+   
+   [Byzantine Fault Tolerance](https://www.youtube.com/watch?v=3wUp5V-4s8Y)
+   
+   [HADOOP HDFS](https://www.youtube.com/watch?v=LX2vERESOp4)
+   
+   [ASIC resistance](https://www.youtube.com/watch?v=QOCGWyxHUTY)
+   
+   [Turing COmpleteness](https://www.youtube.com/watch?v=RPQD7-AOjMI)
+   
+   [Hash Functions](https://www.youtube.com/watch?v=0WiTaBI82Mc)
+   
+   [ECDSA](https://www.youtube.com/watch?v=f9eitAS1nsY)
+   
+   [Memory HArd ALgo]()
+   
+   [Zero Knowledge ORoof](https://www.youtube.com/watch?v=ldWU77cuEmo)
+   
+   [Merkle Trees - Patricia Tries](https://www.youtube.com/watch?v=QlawpoK4g5A)
+   
+   [Crypto Distributed COnsensus](https://www.youtube.com/watch?v=9HNYvcCQ29k)
+   
+   [Ethereum](https://www.youtube.com/watch?v=yFb2nuUUDX0)
+   
+   [Blockchain Anonymous ?](https://www.youtube.com/watch?v=frCc3MmpgjA)
+   
+   [Blockchain applications](https://www.youtube.com/watch?v=jZ4ZK7SkjCs)
+   
+   [Forks in BTC n Crypto](https://www.youtube.com/watch?v=dwow5hB3CNE)
+   
+   [Public X Private Blockchain](https://www.youtube.com/watch?v=pWROdu1O8xw)
+   
+   [Ethereum Forks](https://www.youtube.com/watch?v=WiVEp3gcURM)
+   
+   [NAKAMOTO consensus](https://www.youtube.com/watch?v=CdyDoCk8IKs)
+   
+   [POS : ProofOfStake](https://www.youtube.com/watch?v=M3EFi_POhps)
+   
+   [Consensus Algos](https://www.youtube.com/watch?v=D_LOg8mLrD0)
+   
+   [Sybil Attack](https://www.youtube.com/watch?v=-EKhIBUQjcA)
+   
+   [Bitcoin Energy Consumption](https://www.youtube.com/watch?v=0fLvCnAiGPw)
+   
+   [How Can We Sustainably Power a Cryptocurrency Future? |](https://www.youtube.com/watch?v=hukR1LysU2Y)
+   
+   [CryptoCurrency](https://www.youtube.com/watch?v=8NgVGnX4KOw)
+   
+   [BITCOIN](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+   
+   [ETHEREUM](https://www.youtube.com/watch?v=04f1YsVntw8)
+   
+   [DAO](https://www.youtube.com/watch?v=04f1YsVntw8)
+   
+   [CryptoCurrency HAcks/attacks](https://www.youtube.com/watch?v=Um_r2_krsoI)
+   
+   [Vulnerabilities](https://www.youtube.com/watch?v=s2XHyzPA9Zc)
+   
+   [Sidechains](https://www.youtube.com/watch?v=wBArTe_m6H4)
+   
+   [Crypto Regulations](https://www.youtube.com/watch?v=5lqDfCY__vw)
+   
+
+
+
 ## channels to follow 
 
    #### [Bitcoin99](https://www.youtube.com/channel/UCQQ_fGcMDxlKre3SEqEWrLA)   
